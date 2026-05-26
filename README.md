@@ -1,3 +1,3 @@
 # CRUD Application using Vue, Express & Supabase
 
-Author: Niel Jones Guzman
+Authors: Niel Jones Guzman, Nezzie Reen Balasya, Hannah Evangelista, Alexander John Araneta
